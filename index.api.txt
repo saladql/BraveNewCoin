@@ -1,0 +1,5 @@
+https://bravenewcoin-v1.p.rapidapi.com/digital-currency-symbols
+https://bravenewcoin-v1.p.rapidapi.com/fiat-currency-symbols
+https://bravenewcoin-v1.p.rapidapi.com/ticker?show=usd&coin=btc
+https://bravenewcoin-v1.p.rapidapi.com/convert?from=usd&to=btc&qty=5
+https://bravenewcoin-v1.p.rapidapi.com/prices?coin=btc
